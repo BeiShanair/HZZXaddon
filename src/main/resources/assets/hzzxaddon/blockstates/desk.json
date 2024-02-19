@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/desk",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/desk"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/desk",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/desk",
+      "y": 270
+    }
+  }
+}

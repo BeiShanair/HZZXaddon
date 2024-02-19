@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/chair"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/chair",
+      "y": 270
+    }
+  }
+}

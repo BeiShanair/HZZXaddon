@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/locker",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/locker"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/locker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/locker",
+      "y": 270
+    }
+  }
+}

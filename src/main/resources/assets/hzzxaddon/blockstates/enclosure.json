@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/enclosure",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/enclosure"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/enclosure",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/enclosure",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/runway4",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/runway4"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/runway4",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/runway4",
+      "y": 270
+    }
+  }
+}

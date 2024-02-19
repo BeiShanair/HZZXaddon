@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/light",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/light"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/light",
+      "y": 270
+    }
+  }
+}

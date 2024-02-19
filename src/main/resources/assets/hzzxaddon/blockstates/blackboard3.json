@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/blackboard3",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/blackboard3"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/blackboard3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/blackboard3",
+      "y": 270
+    }
+  }
+}

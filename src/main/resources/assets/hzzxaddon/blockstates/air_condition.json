@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/air_condition",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/air_condition"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/air_condition",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/air_condition",
+      "y": 270
+    }
+  }
+}

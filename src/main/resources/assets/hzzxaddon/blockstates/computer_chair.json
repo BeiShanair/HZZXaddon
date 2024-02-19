@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hzzxaddon:block/computer_chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hzzxaddon:block/computer_chair"
+    },
+    "facing=south": {
+      "model": "hzzxaddon:block/computer_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hzzxaddon:block/computer_chair",
+      "y": 270
+    }
+  }
+}
